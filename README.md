@@ -26,14 +26,13 @@ The unit measurement for mulch is a cubic yard (3 ft x 3 ft x 3 ft). The price o
 | > 10 | $36 per cubic yard for the first 5 cubic yards plus<br>$33 per cubic yard for each cubic yard over 5 up to 10 plus<br>$30 per cubic yard for each cubic yard over 10 |
 
 ## How to Calculate Cubic Yards
-[length in feet * width in feet * (depth in inches / 12)] / 27
-
-Equation:
+Equation: [length in feet * width in feet * (depth in inches / 12)] / 27
 <!-- $$
 l * w * (d/12)/27
 $$ --> 
 
 <div align="center"><img style="background: white;" src="svg\G3XhS5asJo.svg"></div>
+
 > Example: a planting bed that is 20 feet long by 5 feet wide that requires 4 inches of mulch would be 1.23 cubic yards. (20 * 5 * 4 / 12) / 27 
 
 ## Distance
