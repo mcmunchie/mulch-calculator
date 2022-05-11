@@ -1,0 +1,99 @@
+====================> Test case 1 <====================
+Mulch Calculator
+=====================
+
+Enter the length of the planting bed, in feet: 40
+Enter the width of the planting bed, in feet: 8
+Enter the desired depth of mulch, in inches: 4
+Enter the dimensions for another planting bed (y/n): n
+
+Total much required is approximately 4 cubic yards.
+
+Enter your distance from Yorkville, IL, in miles: 25
+
+Cost for 4 cubic yards of mulch
+================================
+          Mulch: $ 144.00
+Delivery charge: $ 106.25
+      Sales tax: $  10.08
+     Total cost: $ 260.33 
+
+
+====================> Test case 2 <====================
+Mulch Calculator
+=====================
+
+Enter the length of the planting bed, in feet: 20
+Enter the width of the planting bed, in feet: 3
+Enter the desired depth of mulch, in inches: 3
+Enter the dimensions for another planting bed (y/n): n
+
+Total much required is approximately 1 cubic yards.
+The minimum mulch order is 3 cubic yards.
+
+Enter your distance from Yorkville, IL, in miles: 8
+
+Cost for 3 cubic yards of mulch
+================================
+          Mulch: $ 108.00
+Delivery charge: $  35.00
+      Sales tax: $   7.56
+     Total cost: $ 150.56 
+
+
+====================> Test case 3 <====================
+Mulch Calculator
+=====================
+
+Enter the length of the planting bed, in feet: 20
+Enter the width of the planting bed, in feet: 3
+Enter the desired depth of mulch, in inches: 3
+Enter the dimensions for another planting bed (y/n): y
+
+Enter the length of the planting bed, in feet: 10
+Enter the width of the planting bed, in feet: 3
+Enter the desired depth of mulch, in inches: 3
+Enter the dimensions for another planting bed (y/n): n
+
+Total much required is approximately 1 cubic yards.
+The minimum mulch order is 3 cubic yards.
+
+Enter your distance from Yorkville, IL, in miles: 29
+
+Cost for 3 cubic yards of mulch
+================================
+          Mulch: $ 108.00
+Delivery charge: $ 123.25
+      Sales tax: $   7.56
+     Total cost: $ 238.81 
+
+
+====================> Test case 4 <====================
+Mulch Calculator
+=====================
+
+Enter the length of the planting bed, in feet: 50
+Enter the width of the planting bed, in feet: 10
+Enter the desired depth of mulch, in inches: 4
+Enter the dimensions for another planting bed (y/n): y
+
+Enter the length of the planting bed, in feet: 75
+Enter the width of the planting bed, in feet: 20
+Enter the desired depth of mulch, in inches: 4
+Enter the dimensions for another planting bed (y/n): y
+
+Enter the length of the planting bed, in feet: 15
+Enter the width of the planting bed, in feet: 3
+Enter the desired depth of mulch, in inches: 4
+Enter the dimensions for another planting bed (y/n): n
+
+Total much required is approximately 26 cubic yards.
+
+Enter your distance from Yorkville, IL, in miles: 10
+
+Cost for 26 cubic yards of mulch
+================================
+          Mulch: $ 825.00
+Delivery charge: $  42.50
+      Sales tax: $  57.75
+     Total cost: $ 925.25 
