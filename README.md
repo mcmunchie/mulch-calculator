@@ -1,5 +1,13 @@
 # Mulch Calculator
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Table of Contents
++ [Purpose](https://github.com/mcmunchie/mulch-calculator#purpose)
++ [Scenario](https://github.com/mcmunchie/mulch-calculator#scenario)
++ [How to Calculate Cubic Yards](https://github.com/mcmunchie/mulch-calculator#how-to-calculate-cubic-yards)
++ [Distance](https://github.com/mcmunchie/mulch-calculator#distance)
++ [Total Cost](https://github.com/mcmunchie/mulch-calculator#total-cost)
++ [Example Output](https://github.com/mcmunchie/mulch-calculator#example-output)
++ [Test Cases to Consider](https://github.com/mcmunchie/mulch-calculator#test-cases-to-consider)
 
 ## Purpose
 To learn how to design, write, and test a simple Python program.
@@ -21,9 +29,9 @@ The unit measurement for mulch is a cubic yard (3 ft x 3 ft x 3 ft). The price o
 [length in feet * width in feet * (depth in inches / 12)] / 27
 
 Equation:
-$$
+$
 l * w * (d/12)/27
-$$
+$
 > Example: a planting bed that is 20 feet long by 5 feet wide that requires 4 inches of mulch would be 1.23 cubic yards. (20 * 5 * 4 / 12) / 27 
 
 ## Distance
