@@ -29,9 +29,11 @@ The unit measurement for mulch is a cubic yard (3 ft x 3 ft x 3 ft). The price o
 [length in feet * width in feet * (depth in inches / 12)] / 27
 
 Equation:
-$
+<!-- $$
 l * w * (d/12)/27
-$
+$$ --> 
+
+<div align="center"><img style="background: white;" src="svg\G3XhS5asJo.svg"></div>
 > Example: a planting bed that is 20 feet long by 5 feet wide that requires 4 inches of mulch would be 1.23 cubic yards. (20 * 5 * 4 / 12) / 27 
 
 ## Distance
