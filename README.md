@@ -42,13 +42,13 @@ Is the sum of the cost of the mulch, the cost of delivery and sales tax of 7% ap
 
 ## Example Output
 > Single planting bed
-<img height="300" width="800" src=img\mulch-one-bed.png />
+<img src=img\mulch-one-bed.png />
 
 > Multiple planting beds 
-<img height="500" width="800" src=img\mulch-multi-bed.png />
+<img src=img\mulch-multi-bed.png />
 
 > Unit tests
-<img height="700" width="500" src=img\mulch-test.png />
+<img src=img\mulch-test.png />
 
 ## Test Cases to Consider
 #### ====================> Test case 1 <====================
